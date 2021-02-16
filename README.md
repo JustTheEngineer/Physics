@@ -1,4 +1,4 @@
-# Mathematics
+# Physics
 ## A geo-cache challenge - GC251EZ
 My neighbor is into that geo-caching stuff, and he also knows I like the occasional math riddle, so he comes to me with stuff like this. 
 
